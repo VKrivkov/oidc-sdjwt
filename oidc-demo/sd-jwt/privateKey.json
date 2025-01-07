@@ -1,0 +1,12 @@
+{
+  "key_ops": [
+    "sign"
+  ],
+  "ext": true,
+  "kty": "EC",
+  "x": "sHMH1r1-W1YVUSBaJBvgCAvHIQeQQF_nsmnzffjtFfc",
+  "y": "uRY3Dkw2pbai3yaa2nZGnz9VeArAK6norUWuHtBOCQM",
+  "crv": "P-256",
+  "d": "-bdoXn3CUSx64r9uY1Jg-XoGtCB9GxSxpoQs06r150Q",
+  "kid": "hello"
+}

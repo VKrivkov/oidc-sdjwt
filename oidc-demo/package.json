@@ -1,0 +1,32 @@
+{
+  "name": "oidc-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "OIDC Provider Demo",
+  "main": "idp.js",
+  "scripts": {
+    "start": "node idp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sd-jwt/core": "^0.8.0",
+    "@sd-jwt/crypto-nodejs": "^0.8.0",
+    "@sd-jwt/hash": "^0.8.0",
+    "@sd-jwt/sd-jwt-vc": "^0.8.0",
+    "@sd-jwt/types": "^0.8.0",
+    "@sd-jwt/utils": "^0.8.0",
+    "ecdsa-sig-formatter": "^1.0.11",
+    "express": "^4.17.1",
+    "express-rate-limit": "^7.4.1",
+    "helmet": "^8.0.0",
+    "jose": "^5.9.6",
+    "jsonwebtoken": "^9.0.2",
+    "jwk-to-pem": "^2.0.7",
+    "oidc-provider": "^8.1.0",
+    "pem-jwk": "^2.0.0",
+    "sqlite3": "^5.1.7",
+    "typeorm": "^0.3.17"
+  }
+}

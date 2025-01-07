@@ -1,0 +1,8 @@
+{
+  "kty": "RSA",
+  "n": "9NGVpbxO8B88mYq9dzMd_8bUl0iMn84SH0F8hLTBvJg77NQPkwPU8xVwTw_0HNtarKiXPLe_dyeEIDwRFtWUaobfFXG1fUjl08gubMCvr7MOkaFspEA3LGATTJwXKc-1onPPfpOfaVes5-5pbD7jUkg4nP2_xgz1lElGKcTv_xk_4ztHO27yM7aKHNwFpt_3w6FNMIfy8WZXPgACcoOwvf6KUxmvZxxV1PMVwlCDEPcpvtOLpLFyak4eEYiuZrYOwoAsZBOlGGX4DdIjNbkVzDDGbB07OREel41AZLcTq72wWgmlgTQbK7CZ4TYUkdOEZvsDDCQcZFYJyu_n_WVxxw",
+  "e": "AQAB",
+  "use": "sig",
+  "kid": "oidc-provider-key-1",
+  "alg": "RS256"
+}
