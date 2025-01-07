@@ -11,7 +11,7 @@ The implementation includes:
 - Example views for login, consent, and profile pages.
 
 ### File Structure
-
+```
 .
 ├── oidc-demo
 │   ├── grants
@@ -37,7 +37,7 @@ The implementation includes:
 ├── views
 │   ├── consent.ejs            # Consent page
 │   ├── login.ejs              # Login page
-
+```
 
 
 ## Key Features
